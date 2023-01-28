@@ -1,0 +1,4 @@
+osource "d:/nrfCode/ibeacon/boards/shields/*/Kconfig.shield"
+osource "d:/nrfCode/trackingNode/boards/shields/*/Kconfig.shield"
+osource "d:/nrfCode/BLECode/scan_adv/boards/shields/*/Kconfig.shield"
+osource "D:/nrfCode/BLECode/nrf/boards/shields/*/Kconfig.shield"

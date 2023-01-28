@@ -1,0 +1,11 @@
+// D:/nrfCode/locationClient/build_xi/zephyr/zephyr_pre0.elf
+digraph "Device dependency graph" {
+	49 [label="clock@40000000\nOrdinal: 49 | Handle: 1\n/soc/clock@40000000"]
+	13 [label="gpio@50000000\nOrdinal: 13 | Handle: 2\n/soc/gpio@50000000"]
+	59 [label="gpio@50000300\nOrdinal: 59 | Handle: 3\n/soc/gpio@50000300"]
+	76 [label="random@4000d000\nOrdinal: 76 | Handle: 4\n/soc/random@4000d000"]
+	4 [label="entropy_bt_hci\nOrdinal: 4 | Handle: 5\n/entropy_bt_hci"]
+	93 [label="crypto@5002a000\nOrdinal: 93 | Handle: 6\n/soc/crypto@5002a000"]
+	105 [label="cdc-acm-uart\nOrdinal: 105 | Handle: 7\n/soc/usbd@40027000/cdc-acm-uart"]
+	95 [label="flash-controller@4001e000\nOrdinal: 95 | Handle: 8\n/soc/flash-controller@4001e000"]
+}

@@ -1,0 +1,4 @@
+nvs_storage:
+  placement: {before: [tfm_storage, end]}
+  size: 0x6000
+  inside: [nonsecure_storage]
